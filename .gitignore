@@ -175,3 +175,8 @@ tags
 /checkpoints/
 exp
 .gradio/
+
+# trained models and checkpoints
+heiertech/
+inference_outputs/
+unsloth_compiled_cache/
